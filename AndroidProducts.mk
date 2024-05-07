@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/banana_ysl.mk
+    $(LOCAL_DIR)/colt_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    banana_ysl-user \
-    banana_ysl-userdebug \
-    banana_ysl-eng
+    colt_ysl-user \
+    colt_ysl-userdebug \
+    colt_ysl-eng
